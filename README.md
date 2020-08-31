@@ -1,3 +1,3 @@
 # Sudoku-Solver
-My college graduation project
-https://ppt.cc/f8i5sx
+----
+![My iPhone ScreenShot](https://ppt.cc/f8i5sx@.png)
